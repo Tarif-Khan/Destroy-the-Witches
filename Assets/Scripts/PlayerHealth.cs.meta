@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 624857ce7c7d70e4c8f2d3332f5250e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deadSfx: {fileID: 8300000, guid: 43bc9b7118c7437489ba15d5077ea974, type: 3}
+  - healthSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
